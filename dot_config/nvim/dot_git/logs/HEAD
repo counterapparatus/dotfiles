@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 23773900d9a2e1079a1a04d31adce5c5e901db6f counterapparatus <counterapparatus@riseup.net> 1713209484 -0500	clone: from https://github.com/counterapparatus/kickstart.nvim.git
+23773900d9a2e1079a1a04d31adce5c5e901db6f e7865d3b3ebcc250261fa9da39aa9b09eaef51ce counterapparatus <counterapparatus@riseup.net> 1713378863 -0500	commit: made some small config changes, added chatgpt.nvim & TermTerm toggle
+e7865d3b3ebcc250261fa9da39aa9b09eaef51ce ce9672581a1d31cc8bfc4324164f2cb0c53b2860 counterapparatus <counterapparatus@riseup.net> 1713405960 -0500	commit: added python related plugins and a dashboard
+ce9672581a1d31cc8bfc4324164f2cb0c53b2860 14041f8d4b66d8a66cb2d0fbe0df7e008e4b6cff counterapparatus <counterapparatus@riseup.net> 1713651417 -0500	commit: addded a couple of new module, got it working basically how I want
